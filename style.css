@@ -7,6 +7,10 @@ body {
 h1 {
   font-size: 40px;
   font-color: red;
+  border-width: 2px;
+  border-style: solid;
+  border-color:bisque
+
 }
 
 h2 {
